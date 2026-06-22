@@ -1,0 +1,6 @@
+{
+  "name": "Hello Friend",
+  "description": "A beautifully polished greeting application that welcomes you with 'Shalom Haver' (Hello Friend) in Hebrew.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
